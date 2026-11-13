@@ -8,8 +8,8 @@ AI Engineering is the process of designing and implementing AI systems using pre
 
 - [x] 1 model per task
 - [x] foundation models
-- [] from demo to product
-- [] AI Engineer VS ML Engineer
-- [] 5 jobs models do well
-- [] When to use plain code instead
-- [] How building changes with a model
+- [ ] from demo to product
+- [ ] AI Engineer VS ML Engineer
+- [ ] 5 jobs models do well
+- [ ] When to use plain code instead
+- [ ] How building changes with a model
